@@ -1,3 +1,5 @@
 this is microservices tutorial in hindi
 eurekha client 
 eurekha server
+interact between server and client
+api gateway
